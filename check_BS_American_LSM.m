@@ -13,7 +13,7 @@ N_MC=1000000;
 
 LSM_price = solve_BS_American_LSM(S0,r,sigma,K,T,N_MC,Nt,k);
 
-[explicit_price,boundary] = solve_Black_Scholes_explicit_am_option(S0,r,sigma,K,T,M,Nt,200); % Lecture March 26
+[explicit_price,boundary] = solve_Black_Scholes_explicit_am_option(S0,r,sigma,K,T,M,Nt,200);
 
 LSM_price
 explicit_price
