@@ -12,8 +12,8 @@ This project implements the Least-Squares Monte Carlo (LSM) approach to value Am
 - MATLAB.
 
 ## Project Structure
-- `solve_BS_American_LSM.m`: Example input files
 - `check_BS_American_LSM.m`: Main script for option valuation
+- `solve_BS_American_LSM.m`: Example input files
 
 ## Acknowledgements
 - Longstaff, F. A., & Schwartz, E. S. (2001). Valuing American Options by Simulation: A Simple Least-Squares Approach. The Review of Financial Studies, 14(1), 113–147.
