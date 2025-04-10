@@ -1,7 +1,7 @@
 # American Options Valuation: Least-Squares Monte Carlo (LSM)
 
 ## Description
-This project implements the Least-Squares Monte Carlo (LSM) approach to value American options. It provides a flexible and efficient method to handle early exercise features of American options. The project is fully implemented in MATLAB.
+This project implements the Least-Squares Monte Carlo (LSM) approach to value American options. It provides a flexible and efficient method to handle early exercise features of American options. The project is fully implemented in MATLAB. This project is part of the coursework for York University's Mathematics graduate course, MATH 6911 Numerical Methods in Finance.
 
 ## Features
 - Simulates American option pricing using the LSM method.
