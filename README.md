@@ -14,6 +14,7 @@ This project implements the Least-Squares Monte Carlo (LSM) approach to value Am
 ## Project Structure
 - `solve_BS_American_LSM.m`: Main script for option valuation
 - `check_BS_American_LSM.m`: Example input files
+- `laguerreL_optimized.m`: Calculate Laguerre polynomials, requires for `solve_BS_American_LSM.m`
 
 ## Acknowledgements
 - Longstaff, F. A., & Schwartz, E. S. (2001). Valuing American Options by Simulation: A Simple Least-Squares Approach. The Review of Financial Studies, 14(1), 113–147.
