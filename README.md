@@ -11,8 +11,8 @@ This project implements the Least-Squares Monte Carlo (LSMC) approach to value A
 - MATLAB.
 
 ## Project Structure
-- solve_BS_American_LSM.m: Main script for option valuation
-- check_BS_American_LSM.m: Example input files
+- solve_BS_American_LSM.m: Example input files
+- check_BS_American_LSM.m: Main script for option valuation
 
 ## Acknowledgements
 - Inspired by academic works on Least-Squares Monte Carlo methods.
